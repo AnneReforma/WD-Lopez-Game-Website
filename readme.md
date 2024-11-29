@@ -3,17 +3,20 @@
 <br/>
 
 <br />
+
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/nintendo-logo.jpg" alt="Nyebe" width="130" height="100">
   </a>
+
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center"> Final Project: Game Company</h3>
 </div>
+
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A Nintendo Website
 </div>
 
 <br />
@@ -61,16 +64,19 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+What is the project
+  - The project is about a Game Company Website, I used the Nintendo as the reference
+Whats the purpose
+  - Creation of a Game Company Website
+What are key components
+  - A multipage Website
+What technology used and how it is used
+  - Usage of HTML, CSS and Bootstrap
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 - Parallax transition
 - Transactional
 
@@ -119,4 +125,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Bootstrap | For the additional codes, carousel and Icons | https://getbootstrap.com/ |
+| Nintendo | Reference on what to put | https://www.nintendo.com/ |
+| Canva | Creation of the Graphics | https://www.canva.com/ |
+| Pinterest | Where photos are taken | https://ph.pinterest.com/ |
