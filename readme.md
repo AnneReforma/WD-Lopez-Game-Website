@@ -62,7 +62,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+The creation of a Nintendo Game Company Website, using CSS and HTML along with bootstrap 5.3
 
 What is the project
   - The project is about a Game Company Website, I used the Nintendo as the reference
